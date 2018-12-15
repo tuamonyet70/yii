@@ -1,0 +1,11 @@
+form h1, .form p{
+    text-align: center;
+}
+form{
+    background-color: #bbb;
+    padding: 20px;
+    margin-top: 20px;
+}
+.site-login{
+    margin-top: -50px;
+}
